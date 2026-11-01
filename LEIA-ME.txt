@@ -1,0 +1,21 @@
+SITE — 68.830.567 Isabelly Alves Santos
+
+Arquivos:
+- index.html: página principal
+- sobre.html: página institucional
+- politica-privacidade.html: política de privacidade
+- termos-de-uso.html: termos de uso
+- styles.css: estilos personalizados
+- assets/: imagens enviadas
+
+Como visualizar:
+1. Extraia o ZIP mantendo a estrutura de pastas.
+2. Abra index.html no navegador.
+3. Para publicar, envie todos os arquivos e a pasta assets para a hospedagem, preservando os nomes e caminhos.
+
+Observações antes de publicar:
+- Confirme os dados cadastrais, endereço, e-mail e telefone.
+- Revise a política conforme cookies, pixels, Google Ads, Analytics, formulários e demais ferramentas que realmente forem instalados.
+- Se houver cookies de publicidade/medição, implemente um mecanismo de consentimento adequado antes de ativá-los.
+- Os textos legais são modelos iniciais e devem ser revisados por profissional habilitado.
+- Bootstrap e Bootstrap Icons são carregados por CDN; a visualização depende de conexão com a internet.
